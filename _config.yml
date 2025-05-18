@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Felix Gasiaux
+email: felix_gasiaux@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A simple website about everything I am interested in and a bit about myself. Enjoy
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: felixgasiaux
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -58,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Félix Gasiaux"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hi, my name is Félix, take a look around, I hope you like it."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
