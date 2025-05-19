@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Félix Gasiaux"
-  avatar : "/assets/images/bio_photo_small.jpg"
+  avatar : "/assets/images/bio_photo.jpg"
   bio    : "Hi, my name is Félix, take a look around, I hope you like it."
   links:
     - label: "Website"
