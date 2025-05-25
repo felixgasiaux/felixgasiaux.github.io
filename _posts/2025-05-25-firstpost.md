@@ -2,9 +2,7 @@
 title: First post
 updated: 2025-05-25 17:11:39Z
 created: 2025-05-25 17:06:36Z
-latitude: 49.56768070
-longitude: 5.91254810
-altitude: 0.0000
+
 ---
 
 * * *
