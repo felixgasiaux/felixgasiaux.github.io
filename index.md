@@ -5,4 +5,3 @@
 layout: home
 author_profile: true
 ---
-Hello, I am Félix Gasiaux, this here is my website with everything about me and around the stuff I like to do.
