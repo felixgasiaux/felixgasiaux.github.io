@@ -1,7 +1,7 @@
 ---
 title: Flashing new os to cisco AP
-updated: 2025-05-25 19:52:50Z
-created: 2025-05-03 08:58:34Z
+updated: 2025-05-26 19:52:50Z
+created: 2025-05-26 08:58:34Z
 ---
 
 # What you need 
