@@ -3,10 +3,9 @@ title: Flashing new os to cisco AP
 updated: 2025-05-26 19:52:50Z
 created: 2025-05-26 08:58:34Z
 ---
+Hello this should guide you through flashing your Cisco AP, in my case I got a few Cisco AIR-CAP1702I-E-K9, which were used in a big commercial deployment and EOL and will be put to use in a home network. 
 
 # What you need 
-
-Hello this should guide you through flashing your Cisco AP, in my case I got a few Cisco AIR-CAP1702I-E-K9, which were used in a big commercial deployment and EOL. 
 
 In order to use the AP's in your personal network, you need:
 
