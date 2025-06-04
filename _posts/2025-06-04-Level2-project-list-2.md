@@ -6,6 +6,7 @@ latitude: 49.56768070
 longitude: 5.91254810
 altitude: 0.0000
 ---
+A more or less complete list of the potential or already started project for Level 2 hackerspace :) This list here includes some personal but also general projects, if I wrote about them here this means that everyone is welcome to participate/help or give their own twist to the idea. 
 
 - [ ] A thermal printer with a button which prints you a random wikipedia site when you press it / prints an image of you
 - [ ] A Matrix clock/Display  
